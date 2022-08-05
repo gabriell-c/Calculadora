@@ -11,8 +11,8 @@
 
 <h2 align="center">📖Sobre</h2>
 
-<p align="center">Este projeto foi realizado para desenvolver melhor minha habilidades em React,
-fazer um slider manual, usar a biblioteca Material UI, etc... Ele é 100% responsivo.</p>
+<p align="center">Este projeto foi realizado para desenvolver melhor minhas habilidades em React,
+o projeto consiste em um site com uma calculadora com funções como divisão, subtração, soma, multiplicação, porcentagem, potenciação, etc...</p>
 
 ---
 
